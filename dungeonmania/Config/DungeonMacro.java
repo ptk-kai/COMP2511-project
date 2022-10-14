@@ -1,0 +1,53 @@
+package dungeonmania.Config;
+
+public class DungeonMacro {
+    public static final String ENTITIES = "entities";
+    public static final String Y = "y";
+    public static final String X = "x";
+    public static final String TYPE = "type";
+    public static final String GOAL_CONDITION = "goal-condition";
+    public static final String GOAL = "goal";
+    public static final String SUBGOALS = "subgoals";
+    public static final String LOGIC = "logic";
+    public static final String AND = "and";
+    public static final String OR = "or";
+    public static final String XOR = "xor";
+    public static final String CO_AND = "co_and";
+    public static final String MOVE_FACTOR = "movement_factor";
+
+    public static final String PLAYER = "player";
+    public static final String WALL = "wall";
+    public static final String EXIT = "exit";
+    public static final String BOULDER = "boulder";
+    public static final String SWITCH = "switch";
+    public static final String DOOR = "door";
+    public static final String DOOR_OPEN = "door_open";
+    public static final String PORTAL = "portal";
+    public static final String ZOMBIE_SPAWNER = "zombie_toast_spawner";
+    public static final String SPIDER = "spider";
+    public static final String ZOMBIE = "zombie_toast";
+    public static final String MERCENARY = "mercenary";
+    public static final String TREASURE = "treasure";
+    public static final String KEY = "key";
+    public static final String INVINCIBILITY = "invincibility_potion";
+    public static final String INVISIBILITY = "invisibility_potion";
+    public static final String WOOD = "wood";
+    public static final String ARROW = "arrow";
+    public static final String BOMB = "bomb";
+    public static final String SWORD = "sword";
+    public static final String BOW = "bow";
+    public static final String SHIELD = "shield";
+    public static final String ASSASSIN = "assassin";
+    public static final String HYDRA = "hydra";
+    public static final String SWAMP = "swamp_tile";
+    public static final String SUNSTONE ="sun_stone";
+    public static final String SCEPTRE = "sceptre";
+    public static final String MIDNIGHT = "midnight_armour";
+    public static final String BULB_OFF = "light_bulb_off";
+    public static final String BULB_ON = "light_bulb_on";
+    public static final String WIRE = "wire";
+    public static final String SWITCH_DOOR = "switch_door";
+    public static final String OLD_PLAYER = "older_player";
+    public static final String TIME_TURNER = "time_turner";
+    public static final String TIME_PORTAL = "time_travelling_portal";
+}
